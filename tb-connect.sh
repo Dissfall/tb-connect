@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2019 George Lukyanov Licensed under the Apache License, Version 2.0 (the «License»);
 
 base_url=http://tb-notificationsrv-prod.textback.io/notification
 token=""
