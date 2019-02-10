@@ -16,7 +16,7 @@ cd ./tb-connect
 chmod +x tb-connect.sh # optional
 ./tb-connect.sh
 ```
-Also you can add it to the system PATCH to run from anywhere. For example on linux:
+Also you can add it to the system PATH to run from anywhere. For example on linux:
 ```shell
 sudo ln -s <patch to script> /usr/local/bin/tb-connect
 ```
